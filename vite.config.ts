@@ -95,7 +95,7 @@ export default defineConfig((config) => {
       target: 'esnext',
     },
     server: {
-      allowedHosts: ['testeapp-boltdiy.u0oe83.easypanel.host'],
+      allowedHosts: ['https://bolt.autofintech.com.br'],
     },
     plugins: [
       nodePolyfills({
